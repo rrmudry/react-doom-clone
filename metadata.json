@@ -1,0 +1,6 @@
+
+{
+  "name": "React DOOM Clone",
+  "description": "A retro first-person shooter experience built with React and TypeScript, using raycasting for a classic 3D feel. Navigate a simple maze in this tribute to the iconic game.",
+  "requestFramePermissions": []
+}
